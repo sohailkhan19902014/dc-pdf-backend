@@ -1,0 +1,12 @@
+{
+  "name": "dc-pdf-backend",
+  "version": "1.0.0",
+  "description": "Vercel serverless backend for Delivery Challan PDF injection using pdf-lib",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "pdf-lib": "^1.17.1"
+  }
+}
